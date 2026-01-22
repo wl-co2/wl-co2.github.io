@@ -43,12 +43,20 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*, Westlake University Doctoral Rising Star Award (Top 3%)
+- *2022.12*, Longi 1% Elite Scholarship (Top 1%)
+- *2022–2024*, Lanzhou University First‑Class Outstanding Student Scholarship (Awarded consecutively for three years)
+- *2023.11*, National College Mathematical Modeling Contest (CUMCM), Second Prize (Undergraduate Division)
+- *2023.05*, National Meteorological Science & Technology Knowledge Competition, Second Prize
 
 # 📖 Educations
 - *2025.09 - now*, Ph.D., Zhejiang University & Westlake University, Environmental Science and Engineering
 - *2021.09 - 2025.06*, Bachelor, Lanzhou University, Atmospheric Science 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔬 Research Training & Internships
+- *2024.3 - 2025.3*, National College Student Innovation and Entrepreneurship Training Program – "Impact of Geoengineering on the Subtropical Jet Stream"
+- *2023.8 - 2024.8*, Chinese Academy of Sciences Undergraduate Innovation Practice Training Program – "Mechanisms of Multi‑year La Niña Events"
+- *2023.3 - 2024.3*, Lanzhou University Student Innovation and Entrepreneurship Action Program – "Variability of Summer Outdoor Thermal Comfort in China"
+- *2023.7 - 2023.8*, Summer Research Internship, Westlake University – "Simulation of Carbon Dioxide Emissions"
+
+
