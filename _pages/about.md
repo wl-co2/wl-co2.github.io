@@ -16,11 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 I am a Ph.D. candidate in Environmental Science and Engineering at Zhejiang University & Westlake University, advised by Prof. Yuzhong Zhang.
 
 Prior to my doctoral studies, I hold a B.Sc. in Atmospheric Science from Lanzhou University, where I conducted research under the supervision of Prof. Jiankai Zhang and Researcher Kai Yang.
 
-My research focuses on CO₂ retrieval and application using active remote sensing satellites, with a future emphasis on natural source emissions and uptake (e.g., terrestrial, oceanic, and polar systems).
+My research focuses on **CO₂ retrieval and application using active remote sensing satellites**, with a future emphasis on natural source emissions and uptake (e.g., terrestrial, oceanic, and polar systems).
 
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
