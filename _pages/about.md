@@ -25,6 +25,9 @@ My research focuses on **CO₂ flux inversion and attribution of global source�
 
 Welcome to visit our group website: <a href='https://atmosphere-westlake.com/research.html'>ACCESS Lab（大气环境研究）</a>.
 
+<!-- TODO: 替换为真实的 Google Scholar ID 后取消注释
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
