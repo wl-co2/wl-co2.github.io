@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Environmental Science and Engineering at Zhejiang University & Westlake University, advised by <a href='https://www.westlake.edu.cn/faculty/yuzhong-zhang.html'>Prof. Yuzhong Zhang（张羽中）</a>.
+I am a Ph.D. candidate in Environmental Science and Engineering at Zhejiang University & Westlake University, advised by Prof. <a href='https://www.westlake.edu.cn/faculty/yuzhong-zhang.html'>Yuzhong Zhang（张羽中）</a>.
 
-Prior to my doctoral studies, I hold a B.Sc. in Atmospheric Science from Lanzhou University, where I conducted research under the supervision of <a href='https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shizitd/jiaoshou/1826800420594401281.html'>Prof. Jiankai Zhang（张健恺）</a> and <a href='https://imde.cas.cn/rcdw/xmyjy/202510/t20251029_7999085.html'>Researcher Kai Yang（杨凯）</a>.
+Prior to my doctoral studies, I hold a B.Sc. in Atmospheric Science from Lanzhou University, where I conducted research under the supervision of Prof. <a href='https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shizitd/jiaoshou/1826800420594401281.html'>Jiankai Zhang（张健恺）</a> and Researcher <a href='https://imde.cas.cn/rcdw/xmyjy/202510/t20251029_7999085.html'>Kai Yang（杨凯）</a>.
 
 My research focuses on **CO₂ flux inversion and attribution of global source–sink changes**. In the future, I aim to leverage active remote sensing satellites to study natural source emissions and uptake (e.g., terrestrial, oceanic, and polar systems).
 
