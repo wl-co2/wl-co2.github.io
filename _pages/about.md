@@ -21,7 +21,7 @@ I am a Ph.D. candidate in Environmental Science and Engineering at Zhejiang Univ
 
 Prior to my doctoral studies, I hold a B.Sc. in Atmospheric Science from Lanzhou University, where I conducted research under the supervision of Prof. Jiankai Zhang and Researcher Kai Yang.
 
-My research focuses on **CO₂ flux inversion and attribution of global source–sink changes**. In the future, I aim to leverage active remote sensing satellites to advance these analyses.
+My research focuses on **CO₂ flux inversion and attribution of global source–sink changes**. In the future, I aim to leverage active remote sensing satellites to study natural source emissions and uptake (e.g., terrestrial, oceanic, and polar systems).
 
 Welcome to visit our group website: <a href='https://atmosphere-westlake.com/research.html'>ACCESS Lab（大气环境研究）</a>.
 
